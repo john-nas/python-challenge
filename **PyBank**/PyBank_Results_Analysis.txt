@@ -1,0 +1,7 @@
+Pybank Analysis Reults
+----------------------------------------------------------------------------
+Total Months: 86
+Total: $38382578
+Average Change: -2315.1176470588234
+The Greatest Increase in Profits occured in Feb-2012 and amounted to $1926159
+The Greatest Decrease in Profits occured in Sep-2013 and amounted to $-2196167
